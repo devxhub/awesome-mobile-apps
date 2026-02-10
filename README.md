@@ -952,22 +952,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines and quality stand
 
 ---
 
-## Roadmap
-
-We're on a mission to catalog 2000+ open source mobile apps! Here's our progress:
-
-- ✅ Phase 1: Foundation (380+ apps) - **Complete**
-- 🚧 Phase 2: iOS Expansion (+1200 apps) - **In Progress**
-- ⏳ Phase 3: Android Expansion (+600 apps) - **Planned**
-- ⏳ Phase 4: Flutter Expansion (+200 apps) - **Planned**
-- ⏳ Phase 5: React Native Expansion (+120 apps) - **Planned**
-
-**Target Completion:** May 2026
-
-See [ROADMAP.md](ROADMAP.md) for detailed expansion plans and how you can help!
-
----
-
 ## License
 
 This list is released under the [Creative Commons Zero v1.0 Universal](LICENSE) license.
