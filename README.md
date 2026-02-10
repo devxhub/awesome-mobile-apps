@@ -5,7 +5,7 @@
 > **Current:** 380+ apps 
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Apps Count](https://img.shields.io/badge/Apps-380%2B%20%7C%20Target%202000%2B-blue.svg)
+![Apps Count](https://img.shields.io/badge/Apps-380%2B-blue.svg)
 ![Platforms](https://img.shields.io/badge/Platforms-iOS%20%7C%20Android%20%7C%20Flutter%20%7C%20React%20Native-blue.svg)
 ![Last Updated](https://img.shields.io/badge/Updated-February%202026-orange.svg)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)
