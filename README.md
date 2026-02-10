@@ -2,7 +2,7 @@
 
 > A comprehensive curated list of open source mobile applications for iOS, Android, Flutter, and React Native
 > 
-> **Current:** 380+ apps | **Target:** 2000+ apps | **See [ROADMAP.md](ROADMAP.md) for expansion plans**
+> **Current:** 380+ apps 
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Apps Count](https://img.shields.io/badge/Apps-380%2B%20%7C%20Target%202000%2B-blue.svg)
