@@ -119,6 +119,8 @@ We're building the most comprehensive directory of open source mobile applicatio
 
 ### iOS Finance
 
+- [**Oath Wallet**](https://github.com/devdasx/oath-wallet) - Open-source cryptocurrency wallet for iPhone and iPad, built with Swift and SwiftUI. Features balances and transaction history, sending and receiving supported assets, and watch-only wallets.
+
 - [**Unstoppable Wallet**](https://github.com/horizontalsystems/unstoppable-wallet-ios) - Fully decentralized multi-currency crypto wallet for Bitcoin, Ethereum, and more. Features built-in DEX, price charts, and supports hardware wallet integration.
 
 - [**Bither**](https://github.com/bither/bither-ios) - Simple and secure Bitcoin wallet with cold/hot wallet modes. Provides HD wallet support, watch-only addresses, and no registration required.
